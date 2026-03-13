@@ -1,0 +1,1 @@
+drop table effect_log;

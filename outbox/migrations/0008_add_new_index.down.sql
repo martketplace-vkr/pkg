@@ -1,0 +1,1 @@
+drop INDEX idx_outbox_head_key_created_id;

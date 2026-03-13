@@ -1,0 +1,6 @@
+[project]
+name       = "example"
+domain     = "example-domain"
+team       = "example-team"
+
+

@@ -1,0 +1,1 @@
+drop INDEX idx_inbox_head_key_created_id;

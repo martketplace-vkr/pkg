@@ -1,0 +1,3 @@
+ALTER TABLE public.outbox
+    ADD COLUMN IF NOT EXISTS meta text DEFAULT NULL,
+    ADD COLUMN IF NOT EXISTS event_type text NOT NULL DEFAULT '',
